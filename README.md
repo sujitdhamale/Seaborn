@@ -9,10 +9,12 @@
 
 * [01Distribution Plots](https://github.com/sujitdhamale/pandas/blob/master/01%20Pandas%20Series.ipynb)
 
-    * Distribution Plots
-    * Joints Plots
-    * Pairplot
-    * Rugplot
-    * KDE(Kernel Density Estimates)  Plot
+In Distribution Plots will see plots that allow us to visualize the distribution of a data set. These plots are:
+
+    * Distribution Plots (distplot)
+    * Joints Plots (jointplot)
+    * Pairplot (pairplot)
+    * Rugplot (rugplot)
+    * KDE(Kernel Density Estimates)  Plot (kdeplot)
 
 
