@@ -142,7 +142,7 @@ sns.distplot(tips['total_bill'])
 
 
 
-![png](01%20Distribution%20Plots_files/01%20Distribution%20Plots_8_1.png)
+![png](https://github.com/sujitdhamale/Seaborn/blob/master/images/distplot01.png)
 
 
 
@@ -158,7 +158,7 @@ sns.distplot(tips['total_bill'],kde=False)
 
 
 
-![png](01%20Distribution%20Plots_files/01%20Distribution%20Plots_9_1.png)
+![png](https://github.com/sujitdhamale/Seaborn/blob/master/images/distplot02.png)
 
 
 
@@ -174,7 +174,7 @@ sns.distplot(tips['total_bill'],kde=False,bins=40)
 
 
 
-![png](01%20Distribution%20Plots_files/01%20Distribution%20Plots_10_1.png)
+![png](https://github.com/sujitdhamale/Seaborn/blob/master/images/distplot03.png)
 
 
 
@@ -190,7 +190,7 @@ sns.distplot(tips['total_bill'],kde=False,bins=100)
 
 
 
-![png](01%20Distribution%20Plots_files/01%20Distribution%20Plots_11_1.png)
+![png](https://github.com/sujitdhamale/Seaborn/blob/master/images/distplot04.png)
 
 
 ## Joints Plots
