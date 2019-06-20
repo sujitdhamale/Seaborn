@@ -31,11 +31,11 @@ Matrix plots allow you to plot data as color-encoded matrices and can also be us
 In Matrix Plots we will see below plots 
     * Heatmap
     * clustermap
-    
-* [04Grid](https://github.com/sujitdhamale/Seaborn/blob/master/04%20Grids.ipynb)<br>
-Grids are general types of plots that allow you to map plot types to rows and columns of a grid, this helps you create similar plots separated by features.
 
-We Will see below
-* PairGrid
-* Facet Grid
-* JointGrid
+* [04Grid](https://github.com/sujitdhamale/Seaborn/blob/master/04%20Grids.ipynb)
+
+   Grids are general types of plots that allow you to map plot types to rows and columns of a grid, this helps you create similar plots separated by features
+    * PairGrid
+    * Facet Grid
+    * JointGrid
+
