@@ -43,7 +43,7 @@ In Matrix Plots we will see below plots
 
    In regression plot we will see
     * lmplot<br>
-    ###### along wit it  we will see 
+    ##### along wit it  we will see 
     * Working with Markers
     * Using a Grid
     * Aspect and Size
