@@ -27,7 +27,7 @@
     * factorplot
     * swarmplot
 * [03Matrix Plots](https://github.com/sujitdhamale/Seaborn/blob/master/03%20Matrix%20Plots.ipynb)<br>
-Matrix plots allow you to plot data as color-encoded matrices and can also be used to indicate clusters within the data (later in the machine learning section we will learn how to formally cluster data).
+Matrix plots allow you to plot data as color-encoded matrices and can also be used to indicate clusters within the data (later in the machine learning section we will learn how to formally cluster data).<br>
 In Matrix Plots we will see below plots 
     * Heatmap
     * clustermap
