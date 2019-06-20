@@ -39,3 +39,11 @@ In Matrix Plots we will see below plots
     * Facet Grid
     * JointGrid
 
+* [05Regression Plots](https://github.com/sujitdhamale/Seaborn/blob/master/05%20Regression%20Plots.ipynb)
+
+   In regression plot we will see
+    * lmplot<br>
+    ###### along wit it  we will see 
+    * Working with Markers
+    * Using a Grid
+    * Aspect and Size
